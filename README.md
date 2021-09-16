@@ -8,3 +8,4 @@ This repository contains all of the notes taken by [Ebuka Moneme](https://github
   * [Day 1](/Week1/Day1)
   * [Day 2](/Week1/Day2.md)
   * [Day 3](/Week1/Day3.md)
+  * [Day 4](/Week1/Day4.md)
