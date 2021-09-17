@@ -108,6 +108,7 @@ console.log(add); // this would log something like [Function: add]
 - they're anonymous by nature
 - they can help us make things a little more readable
 - they also help us deal with some scope issues (but don't worry about that right now)
+  - they don't declare their own scope but inherit parent scope
 
 ```
 // our old-school function
